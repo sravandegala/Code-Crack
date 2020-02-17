@@ -1,0 +1,13 @@
+/* Welcome to my Fruit World
+#include<stdio.h>
+int main()
+{
+    char string[30];
+    printf("Enter a fruit Name Please : \n");
+    scanf("%s", string);
+    printf("You have entered the Fruit name as : %s",string);
+    
+    Printf("Thanks for participating\n");
+    Printf("Will update it soon\n");
+     return 0;
+ }
