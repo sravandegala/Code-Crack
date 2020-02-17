@@ -10,5 +10,15 @@ int main()
     Printf("Thanks for participating\n");
     Printf("Will update it soon\n");
     printf("Interested people can join to collect more fruits/n")
+    
+    int i,j;
+    printf("Enter Fruit name : \n");
+    scanf("%d",&j);
+    
+    for(i=1;i<=j;i++)
+    {
+        printf("%d",j);
+     }
+     
      return 0;
  }
