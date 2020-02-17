@@ -9,5 +9,6 @@ int main()
     
     Printf("Thanks for participating\n");
     Printf("Will update it soon\n");
+    printf("Interested people can join to collect more fruits/n")
      return 0;
  }
